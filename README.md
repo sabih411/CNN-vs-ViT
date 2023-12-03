@@ -1,9 +1,9 @@
 # CMPSC-448-Final-Project
 Course Work of CMPSC-448 (The Pennsylvania State University)
 
-Consider opening the .ipynb notebook on Goole Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/sabih411/CMPSC-448-Final-Project/blob/main/CMPSC448_Final_Project.ipynb) 
-
 The work presented focuses on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs), applying them to the task of facial emotion recognition. This motivation being the distinct architectural differences between CNNs and ViTs, and our interest in evaluating their respective performances in accurately classifying facial expressions into various emotional states. The project aims to provide insights into how these two prominent deep learning architectures handle the complexities and nuances of emotion recognition from facial images.
+
+Consider opening the .ipynb notebook on Goole Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sabih411/CMPSC-448-Final-Project/blob/main/CMPSC448_Final_Project.ipynb) for best code-interface. Code is well structured in Sections and in cells under the corresponding sections.
 
 To Properly understand the organization of code in the .ipynb notebook, see the snippet below! 
 ![image](https://github.com/sabih411/CMPSC-448-Final-Project/assets/47940851/aafee277-7b36-4ce4-8a5d-6dfbce22c2bc)
