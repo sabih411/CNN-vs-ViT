@@ -1,4 +1,4 @@
-# CMPSC-448-Final-Project
+# CNN vs ViT
 Course Work of CMPSC-448 (The Pennsylvania State University)
 
 The work presented focuses on Convolutional Neural Networks (CNNs) and Vision Transformers (ViTs), applying them to the task of facial emotion recognition. This motivation being the distinct architectural differences between CNNs and ViTs, and our interest in evaluating their respective performances in accurately classifying facial expressions into various emotional states. The project aims to provide insights into how these two prominent deep learning architectures handle the complexities and nuances of emotion recognition from facial images.
